@@ -10,9 +10,9 @@ Manuscript 초안
 
 ==========================================
 
-1. Introduction
+## 1. Introduction
 
-## Chat GPT
+### Chat GPT
 Hello, GPT
 I'm a scientific researcher. I'm writing a paper and the topic is "optimal interval between PTGBD and
 cholecystectomy".
@@ -23,18 +23,18 @@ for the introduction?
 
 
 
-## Elicit
+### Elicit
 Optimal interval between PTGBD and cholecystectomy
 -- > (export references in CSV file)
 
-## Chat GPT
+### Chat GPT
 I am uploading a CSV file. Can you write down the contents of this file in the style of APA citation? Please number
 the references.
 
 
 
 
-## <Claude>
+### Claude
 
 I am a scientific researcher writing a research paper. The topic is "optimal interval between PTGBD and
 cholecystectomy". Let's write the introduction section. I will provide some instructions in the following prompts.
@@ -52,15 +52,15 @@ patients". Integrate this content into the introduction, citing this paper.
 
 ==========================================
 
-2. Methods
+## 2. Methods
 
-<SciSpace>
+### SciSpace>
 Optimal interval between PTGBD and cholecystectomy
 -- > (하려는 연구와 비슷한 study design의 연구를 클릭해서 methods section 추출)
 
 
 
-## <Claude>
+### Claude>
 
 Let's write the methods section.
 I plan to perform a retrospective cohort study of patients who recieved cholecystectomy after PTGBD at Incheon St.
@@ -70,9 +70,9 @@ Here is the methods section of a similar study. Based on this content, write a m
 
 
 
-3. Results
+## 3. Results
 
-## <GPT>
+### GPT>
 
 This is a table describing the demographic data of a retrospective study comparing two groups.
 Write the results section of this study, that explains this table.
@@ -80,9 +80,9 @@ Write the results section of this study, that explains this table.
 
 ==========================================
 
-4. Discussion
+## 4. Discussion
 
-## <GPT>
+### GPT>
 
 I would like to write the discussion section.
 
@@ -97,7 +97,7 @@ Lastly, I will state the conclusions.
 
 Can you suggest a structure for the discussion?
 
-## <Claude>
+### Claude>
 Based on the references I have uploaded already, let's write the discussion section. I will give you instructions. Start
 writing only when I give you the command 'start now'.
 
