@@ -1,6 +1,7 @@
 # AI 이용해서 빠르게 논문쓰기
 
 ==========================================
+
 https://youtu.be/fPUCOWGZO0c
 
 Manuscript 초안
