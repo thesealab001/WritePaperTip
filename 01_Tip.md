@@ -13,7 +13,7 @@ Manuscript 초안
 ## 1. Introduction
 
 ### Chat GPT
-Hello, GPT
+Hello, GPT.
 I'm a scientific researcher. I'm writing a paper and the topic is "optimal interval between PTGBD and
 cholecystectomy".
 I would like to write a 3 paragraph introduction. The first paragraph will contain a brief introduction of the disease
@@ -21,7 +21,17 @@ entity in question. The second paragraph will contain the intervention, and its 
 paragraph will address the research gap, considering the topic I have given you. Can you suggest a brief structure
 for the introduction?
 
+---
 
+안녕하세요, GPT.
+저는 과학 연구자입니다. 논문을 쓰고 있는데 주제는 "PTGBD와
+담낭 절제술".
+3개의 단락을 소개하고자 합니다. 첫 번째 단락에는 질병에 대한 간략한 소개가 포함될 것입니다
+해당 기관. 두 번째 단락에는 개입과 그 임상적 관련성이 포함될 것입니다. 세 번째 단락
+단락은 제가 드린 주제를 고려하여 연구 격차를 해결할 것입니다. 간단한 구조를 제안해 주실 수 있나요
+소개를 위해?
+
+---
 
 ### Elicit
 Optimal interval between PTGBD and cholecystectomy
