@@ -12,6 +12,9 @@ Manuscript 초안
 
 ## 1. Introduction
 
+## Investigation on the Effectiveness of Specialized Consultation on Respiratory (Acute/Chronic Cough, etc.) Using LLM
+## the Effectiveness of Specialized Consultation on Respiratory using LLM
+
 ### Chat GPT
 Hello, GPT.
 I'm a scientific researcher. I'm writing a paper and the topic is "A Study on the Satisfaction of Cough Counseling Using LLM".
@@ -47,12 +50,12 @@ Conclude by stating the purpose of your study, emphasizing how filling this rese
 ---
 
 ### Elicit
-Optimal interval between PTGBD and cholecystectomy
+A Study on the Effectiveness of Cough Counseling Using LLM
 -- > (export references in CSV file)
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+Recent research explores the potential of large language models (LLMs) in respiratory health consultations. RespLLM, a multimodal LLM framework, demonstrates improved performance in respiratory health prediction by integrating audio and text data (Zhang et al., 2024). However, concerns about LLMs' limitations in clinical deployment, including confabulations and lack of contextual awareness, have been raised (Schwartz et al., 2023). Optimal respiratory consultations should focus on long-term conditions, emphasizing self-management education, compliance, and effective communication (Roberts & Partridge, 2007). Evaluation of consultative skills in respiratory medicine using structured clinical examinations has shown that consultation quality improves with increased training and experience (Boudreau et al., 1994). While LLMs show promise in automating aspects of respiratory health assessment, their integration into clinical practice requires careful consideration of their limitations and potential impacts on specialist care.
 
 ---
 
