@@ -12,7 +12,7 @@ Manuscript 초안
 
 1. Introduction
 
-## <Chat GPT>
+## Chat GPT
 Hello, GPT
 I'm a scientific researcher. I'm writing a paper and the topic is "optimal interval between PTGBD and
 cholecystectomy".
@@ -23,11 +23,11 @@ for the introduction?
 
 
 
-## <Elicit>
+## Elicit
 Optimal interval between PTGBD and cholecystectomy
 -- > (export references in CSV file)
 
-## <Chat GPT>
+## Chat GPT
 I am uploading a CSV file. Can you write down the contents of this file in the style of APA citation? Please number
 the references.
 
