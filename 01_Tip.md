@@ -66,7 +66,11 @@ Start writing only when I give you the command 'start now'.
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+저는 연구 논문을 쓰는 과학 연구자입니다. 주제는 "PTGBD와
+"담낭 절제술." 
+소개 섹션을 작성해 보겠습니다. 
+다음 프롬프트에서 몇 가지 지침을 제공하겠습니다.
+'지금 시작하세요'라는 명령을 내릴 때만 글을 쓰기 시작하세요.
 
 ---
 
@@ -76,7 +80,7 @@ Here is the structure of the introduction. Write a 3-paragraph introduction base
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+다음은 서론의 구조입니다. 이 구조를 바탕으로 3단락 서론을 작성하세요.
 
 ---
 
@@ -85,17 +89,19 @@ Here is the reference list for the introduction. Only use the references provide
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+소개를 위한 참고 목록은 다음과 같습니다. 이 목록에 제공된 참고 자료만 사용하세요.
 
 ---
 
-Here is an additional reference. This paper states that "early cholecystectomy is feasible after PTGBD, in low risk
-patients". Integrate this content into the introduction, citing this paper.
+Here is an additional reference. This paper states that "early cholecystectomy is feasible after PTGBD, in low risk patients". 
+Integrate this content into the introduction, citing this paper.
 (citation point 지정하고 싶다면 scite에서 받아서 복붙)
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+다음은 추가 참고 자료입니다.
+이 논문은 "저위험 환자에서 PTGBD 후 조기 담낭 절제술이 가능하다"고 명시하고 있습니다. 
+이 논문을 인용하여 이 내용을 도입부에 통합하세요.
 
 ---
 
@@ -110,8 +116,6 @@ Optimal interval between PTGBD and cholecystectomy
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
-
 ---
 
 
@@ -120,12 +124,18 @@ PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내�
 Let's write the methods section.
 I plan to perform a retrospective cohort study of patients who recieved cholecystectomy after PTGBD at Incheon St.
 Mary's Hospital, from January 2018 to December 2023.
-Here is the methods section of a similar study. Based on this content, write a methods section for our paper.
+Here is the methods section of a similar study. 
+Based on this content, write a methods section for our paper.
 -- > (SciSpace에서 추출한 methods 샘플 복붙)
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+방법 섹션을 작성해 보겠습니다.
+저는 인천성모병원에서 PTGBD 후 담낭절제술을 받은 환자들을 대상으로 후향적 코호트 연구를 수행할 계획입니다.
+2018년 1월부터 2023년 12월까지 메리 병원.
+다음은 유사한 연구의 방법 섹션입니다. 
+
+이 내용을 바탕으로 논문의 방법 섹션을 작성하세요.
 
 ---
 
@@ -140,7 +150,8 @@ Write the results section of this study, that explains this table.
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+이것은 두 그룹을 비교한 후향적 연구의 인구통계학적 데이터를 설명하는 표입니다.
+이 표를 설명하는 이 연구의 결과 섹션을 작성하세요.
 
 ---
 
@@ -157,8 +168,7 @@ In the first paragraph, I will summarize the findings of my study.
 In the second paragraph, I will propose some possible mechanisms that may have caused these results.
 In the following section, I will discuss some references that support my results
 In the next section, I will discuss references that oppose my results.
-In the next section, I will discuss the relevance of my study, in regard to the research gap existing in the current
-literature.
+In the next section, I will discuss the relevance of my study, in regard to the research gap existing in the current literature.
 In the last section, I will discuss the strengths and limitations of my study.
 Lastly, I will state the conclusions.
 
@@ -166,37 +176,48 @@ Can you suggest a structure for the discussion?
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+토론 섹션을 작성하고 싶습니다.
+
+첫 번째 단락에서는 제 연구 결과를 요약하겠습니다.
+두 번째 단락에서는 이러한 결과를 초래했을 수 있는 몇 가지 가능한 메커니즘을 제안하겠습니다.
+다음 섹션에서는 제 결과를 뒷받침하는 몇 가지 참고 자료에 대해 논의하겠습니다
+다음 섹션에서는 제 결과와 반대되는 참고 문헌에 대해 논의하겠습니다.
+다음 섹션에서는 현재 문헌에 존재하는 연구 격차와 관련하여 제 연구의 관련성에 대해 논의하겠습니다.
+마지막 섹션에서는 제 연구의 강점과 한계에 대해 논의하겠습니다.
+마지막으로 결론을 말씀드리겠습니다.
+
+토론을 위한 구조를 제안해 주실 수 있나요?
 
 ---
 
 ### Claude>
-Based on the references I have uploaded already, let's write the discussion section. I will give you instructions. Start
-writing only when I give you the command 'start now'.
+Based on the references I have uploaded already, let's write the discussion section. 
+I will give you instructions. 
+Start writing only when I give you the command 'start now'.
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+이미 업로드한 참고 자료를 바탕으로 토론 섹션을 작성해 보겠습니다. 
+지시 사항을 드리겠습니다. 
+'지금 시작하세요'라는 명령을 내릴 때만 글을 쓰기 시작하세요.
 
 ---
 
 Here is the proposed structure. Do not use bullet points, or number the subheadings.
+Provide a reference list that integrates the introduction section and the discussion section you've written. 
+Number the references in order of appearance in the text. 
+Use the reference style of the journal 'Annals of Surgery'.
 
 ---
 
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
+다음은 제안된 구조입니다. 글머리 기호를 사용하거나 부제목에 번호를 매기지 마세요.
+당신이 작성한 소개 섹션과 토론 섹션을 통합한 참고 목록을 제공하세요. 
+텍스트에서 나타나는 순서대로 참조 번호를 매깁니다. 
+저널 '수술 연감'의 참조 스타일을 사용하세요.
 
 ---
 
-Provide a reference list that integrates the introduction section and the discussion section you've written. Number
-the references in order of appearance in the text. Use the reference style of the journal 'Annals of Surgery'.
 
-
----
-
-PTGBD와 담낭 절제술 사이의 최적 간격 -- > (CSV 파일의 내보내기 참조)
-
----
 
 ==========================================
 ==========================================
